@@ -1,6 +1,5 @@
 ### Hi, I'm Zuzanna Ziolek
 
-<!--
 I go by Zu, I'm a 2nd year undergrad at Aberystwyth Uni. I'm a passionate programmer and I'm **currently working** on a mobile app. 
 My **current modules** are : Modelling Persistent Data, C and C++, Algorithm Design and Data Structures and Scientific Python. 
 Here are some ideas to get you started:
