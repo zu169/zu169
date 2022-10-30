@@ -17,8 +17,8 @@ src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discor
 </p>
   
 I go by Zu, I'm a 2nd year undergrad at Aberystwyth Uni. 
-<p align="left">
 I'm a passionate programmer and I'm ***currently working*** on a mobile app. 
+<p align="left">
 <a href="https://github.com/zu169/LoveJarApp" target="blank"><img align="center" 
 src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title = "2ndYear"/>  
 </p>
