@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 -->
   
 ### Links -->
-  Gmail - zuziolek03@gmail.com
-  Discord - -Zu169#7989
+  Gmail : zuziolek03@gmail.com
+  Discord : -Zu169#7989
