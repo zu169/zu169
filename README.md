@@ -23,6 +23,7 @@ My ***current modules*** are : Modelling Persistent Data, C and C++, Algorithm D
 src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title = "2ndYear"/>  
 </p>
 
+ <img src="https://github-readme-stats.vercel.app/api?username=zu169&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="Github Stats Zu" width="700">
 
 ### Links -->
   Gmail : zuziolek03@gmail.com
