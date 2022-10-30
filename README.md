@@ -16,7 +16,9 @@ src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discor
   
 I go by Zu, I'm a 2nd year undergrad at Aberystwyth Uni. I'm a passionate programmer and I'm ***currently working*** on a mobile app. 
 My ***current modules*** are : Modelling Persistent Data, C and C++, Algorithm Design and Data Structures and Scientific Python. 
-Here are some ideas to get you started:
+  <a href="https://github.com/zu169/2ndYearUniWork" target="blank"><img align="center" 
+src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title = "2ndYear"/>  
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
