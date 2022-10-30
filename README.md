@@ -1,7 +1,7 @@
 ### Hi, I'm Zuzanna Ziolek AKA Zu
 
 <p align="left">
-<a href="zzuziolek@gmail.com" target="blank"><img align="center" 
+<a href="https.zzuziolek@gmail.com" target="blank"><img align="center" 
 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title = "Gmail"/>
 
 I go by Zu, I'm a 2nd year undergrad at Aberystwyth Uni. I'm a passionate programmer and I'm **currently working** on a mobile app. 
