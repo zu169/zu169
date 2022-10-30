@@ -22,7 +22,9 @@ I'm a passionate programmer and I'm ***currently working*** on a mobile app.
 <a href="https://github.com/zu169/LoveJarApp" target="blank"><img align="center" 
 src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title = "2ndYear"/>  
 </p>
+  
 My ***current modules*** are : Modelling Persistent Data, C and C++, Algorithm Design and Data Structures and Scientific Python. 
+  
 <p align+"left">
 <a href="https://github.com/zu169/2ndYearUniWork" target="blank"><img align="center" 
 src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title = "2ndYear"/>  
