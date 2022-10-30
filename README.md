@@ -1,11 +1,20 @@
 ### Hi, I'm Zuzanna Ziolek AKA Zu
 
+<!-- Pretty links -->
 <p align="left">
 <a href="https://github.com/zu169/zu169/blob/main/README.md#links" target="blank"><img align="center" 
 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title = "Gmail"/>
-
-I go by Zu, I'm a 2nd year undergrad at Aberystwyth Uni. I'm a passionate programmer and I'm **currently working** on a mobile app. 
-My **current modules** are : Modelling Persistent Data, C and C++, Algorithm Design and Data Structures and Scientific Python. 
+<a href="https://www.linkedin.com/in/zuzanna-ziolek-147384255/" target="blank"><img align="center" 
+src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title = "LinkedIn"/>
+<a href="https://myanimelist.net/profile/zuabo" target="blank"><img align="center" 
+src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" title = "Anime"/>
+<a href="https://github.com/zu169/zu169/blob/main/README.md#links" target="blank"><img align="center" 
+src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title = "Discord"/>
+<a href="https://www.twitch.tv/zu169" target="blank"><img align="center" 
+src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" title = "Twitch"/>
+  
+I go by Zu, I'm a 2nd year undergrad at Aberystwyth Uni. I'm a passionate programmer and I'm ***currently working*** on a mobile app. 
+My ***current modules*** are : Modelling Persistent Data, C and C++, Algorithm Design and Data Structures and Scientific Python. 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -18,4 +27,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-### Links
+### Links -->
+  Gmail - zzuziolek@gmail.com
