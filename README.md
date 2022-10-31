@@ -17,7 +17,9 @@ src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discor
 </p>
   
 I go by Zu, I'm a 2nd year undergrad at Aberystwyth Uni. 
-I'm a passionate programmer and I'm ***currently working*** on a mobile app. 
+I'm a passionate programmer, I love watching fireship and techwithtim videos. My favourite part of all my programming projects is the planning and organizing. Of course after successfully debugging my code I get a huge serotonin boost but I get very excited and motivated when I see my ideas and pseudocode organised in notion or the readme file. 
+  
+I'm ***currently working*** on a mobile app. 
 <p align="left">
 <a href="https://github.com/zu169/LoveJarApp" target="blank"><img align="center" 
 src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title = "2ndYear"/>  
