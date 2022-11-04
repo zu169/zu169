@@ -17,7 +17,7 @@ src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discor
 </p>
   
 I go by Zu, I'm a 2nd year undergrad at Aberystwyth Uni. 
-I'm a passionate programmer, I love watching fireship and techwithtim videos. My favourite part of all my programming projects is the planning and organizing. 
+I'm a passionate programmer. 
   
 I'm ***currently working*** on a mobile app. 
 <p align="left">
