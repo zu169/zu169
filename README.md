@@ -18,8 +18,8 @@ src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discor
   
 I prefer to be called Zu very much, I'm a 2nd year undergrad at Aberystwyth Uni. 
 
-I've recently been consuming more and more content to do with software developing so I can find my niche.
-I'm currently mostly interested in the programming language Golang because it has func in the syntax.
+I've recently been consuming more and more content to do with software developing so I can find my niche.  
+I'm currently mostly interested in the programming language Golang because it has func in the syntax.  
 My favourite tech content creators are Primeagen, Fireship and CodeAesthetic.
 
 I am also obsessed with organising things in notion and looking for new ai chrome extensions or apps to optimise my workflow.  
@@ -40,7 +40,7 @@ I'm ***currently working*** on a mobile app.
 src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title = "2ndYear"/>  
 </p>
   
-My ***current modules*** are : Artificial Intelligence, Software Enginnering and Scientific Python. 
+My ***current modules*** are : Artificial Intelligence, Software Enginnering and Scientific Python.   
 I'm the Project Lead for the group project for the software engineering module and I've been really enjoying learning about Prolog in my AI module.
   
 <p align+"left">
