@@ -16,8 +16,18 @@ src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=my
 src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title = "Discord"/>
 </p>
   
-I go by Zu, I'm a 2nd year undergrad at Aberystwyth Uni. 
-I'm a passionate programmer. 
+I prefer to be called Zu very much, I'm a 2nd year undergrad at Aberystwyth Uni. 
+I've recently been consuming more and more content to do with software developing so I can find my niche.
+I'm currently mostly interested in the programming language Golang because it has func in the syntax.
+My favourite tech content creators are Primeagen, Fireship and CodeAesthetic.
+
+My boyfriend is the better software engineer and probably the one you want to hire :) @Spyabo
+
+I also have been grinding out codewars because I'm too scared to start my first project. 
+<p align="left">
+<a href="https://www.codewars.com/users/zuabo" target="blank"><img align="center" 
+src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title = "CodeWars"/>  
+</p>
   
 I'm ***currently working*** on a mobile app. 
 <p align="left">
@@ -25,7 +35,8 @@ I'm ***currently working*** on a mobile app.
 src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title = "2ndYear"/>  
 </p>
   
-My ***current modules*** are : Modelling Persistent Data, C and C++, Algorithm Design and Data Structures and Scientific Python. 
+My ***current modules*** are : Artificial Intelligence, Software Enginnering and Scientific Python. 
+I'm the Project Lead for the group project for the software engineering module and I've been really enjoying learning about Prolog in my AI module.
   
 <p align+"left">
 <a href="https://github.com/zu169/2ndYearUniWork" target="blank"><img align="center" 
