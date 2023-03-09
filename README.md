@@ -6,7 +6,7 @@ src="" title = ""/>       -->
 <p align="left">
 <a href="https://github.com/zu169/zu169/blob/main/README.md#links" target="blank"><img align="center" 
 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title = "Gmail"/>
-<a href="https://future-walkover-e2d.notion.site/Computer-Science-d1c88d0ed2cf400c8af5b6f1b5894eae" target="blank"><img align="center" 
+<a href="https://future-walkover-e2d.notion.site/Weekly-Organisation-Template-Zuabo-081cebf30ed4479fbcb60b2110acbb0a" target="blank"><img align="center" 
 src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" title = "Notion"/> 
 <a href="https://www.linkedin.com/in/zuzanna-ziolek-147384255/" target="blank"><img align="center" 
 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title = "LinkedIn"/>
@@ -27,7 +27,7 @@ Currently highly recommend Compose AI, it writes emails for you and has the most
 You can use my notion template for timeblocking your day. :) I use I mix of the timeblocking table and todo list tick boxes! 
 <p align="left">
 <a href="https://future-walkover-e2d.notion.site/Weekly-Organisation-Template-Zuabo-081cebf30ed4479fbcb60b2110acbb0a" target="blank"><img align="center" 
-src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title = "CodeWars"/>  
+src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" title = "Notion"/>  
 </p>
 
 My boyfriend is the better software engineer and probably the one you want to hire :) @Spyabo
