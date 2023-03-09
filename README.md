@@ -22,8 +22,8 @@ I've recently been consuming more and more content to do with software developin
 I'm currently mostly interested in the programming language Golang because it has func in the syntax.
 My favourite tech content creators are Primeagen, Fireship and CodeAesthetic.
   
-I am also obsessed with organising things in notion and looking for new ai chrome extensions or apps to optimise my workflow.
-Currently highly recommend Compose AI, it writes emails for you and has the most seamless autocomplete feature I've ever seen.
+I am also obsessed with organising things in notion and looking for new ai chrome extensions or apps to optimise my workflow.\n
+Currently highly recommend Compose AI, it writes emails for you and has the most seamless autocomplete feature I've ever seen.\n
 You can use my notion template for timeblocking your day. :) I use I mix of the timeblocking table and todo list tick boxes!
 
 My boyfriend is the better software engineer and probably the one you want to hire :) @Spyabo
