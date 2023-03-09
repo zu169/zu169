@@ -24,7 +24,11 @@ My favourite tech content creators are Primeagen, Fireship and CodeAesthetic.
 
 I am also obsessed with organising things in notion and looking for new ai chrome extensions or apps to optimise my workflow.  
 Currently highly recommend Compose AI, it writes emails for you and has the most seamless autocomplete feature I've ever seen.   
-You can use my notion template for timeblocking your day. :) I use I mix of the timeblocking table and todo list tick boxes!  
+You can use my notion template for timeblocking your day. :) I use I mix of the timeblocking table and todo list tick boxes! 
+<p align="left">
+<a href="https://future-walkover-e2d.notion.site/Weekly-Organisation-Template-Zuabo-081cebf30ed4479fbcb60b2110acbb0a" target="blank"><img align="center" 
+src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title = "CodeWars"/>  
+</p>
 
 My boyfriend is the better software engineer and probably the one you want to hire :) @Spyabo
 
