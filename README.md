@@ -30,8 +30,6 @@ You can use my notion template for timeblocking your day. :) I use I mix of the 
 src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" title = "Notion"/>  
 </p>
 
-My boyfriend is the better software engineer and probably the one you want to hire :) @Spyabo
-
 I also have been grinding out codewars because I'm too scared to start my first project. 
 <p align="left">
 <a href="https://www.codewars.com/users/zuabo" target="blank"><img align="center" 
