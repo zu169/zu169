@@ -18,13 +18,13 @@ src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discor
   
 I prefer to be called Zu very much, I'm a 2nd year undergrad at Aberystwyth Uni. 
 
-I've recently been consuming more and more content to do with software developing so I can find my niche.  
+I've recently been consuming more and more content to do with software development so I can find my niche.  
 I'm currently mostly interested in the programming language Golang because it has func in the syntax.  
 My favourite tech content creators are Primeagen, Fireship and CodeAesthetic.
 
 I am also obsessed with organising things in notion and looking for new ai chrome extensions or apps to optimise my workflow.  
 Currently highly recommend Compose AI, it writes emails for you and has the most seamless autocomplete feature I've ever seen.   
-You can use my notion template for timeblocking your day. :) I use I mix of the timeblocking table and todo list tick boxes! 
+You can use my notion template for timeblocking your day. :) I use a mix of the timeblocking table and todo list tick boxes! 
 <p align="left">
 <a href="https://future-walkover-e2d.notion.site/Weekly-Organisation-Template-Zuabo-081cebf30ed4479fbcb60b2110acbb0a" target="blank"><img align="center" 
 src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" title = "Notion"/>  
