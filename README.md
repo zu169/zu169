@@ -20,21 +20,13 @@ Showing up for myself has always been a challenge for me but I've been actively 
 My updated habit tracking notion template has been really helping me with that since I can hold myself accountable and see my daily progress on a neat graph.
 My template is available for you to use for free :))
 <p align="left">
-<a href="https://future-walkover-e2d.notion.site/Weekly-Organisation-Template-Zuabo-081cebf30ed4479fbcb60b2110acbb0a" target="blank"><img align="center" 
+<a href="https://aboard-brazil-9c0.notion.site/Habit-Tracking-Template-53ae80db848f42c88ce8ba0208c4f9d3?pvs=4" target="blank"><img align="center" 
 src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" title = "Notion"/>  
 </p>
 
 I've recently been consuming more and more content to do with software development so I can find my niche.  
 I'm currently mostly interested in the programming language Golang because it has func in the syntax.  
 My favourite tech content creators are Primeagen, Fireship and CodeAesthetic.
-
-I am also obsessed with organising things in notion and looking for new ai chrome extensions or apps to optimise my workflow.  
-Currently highly recommend Compose AI, it writes emails for you and has the most seamless autocomplete feature I've ever seen.   
-You can use my notion template for timeblocking your day. :) I use a mix of the timeblocking table and todo list tick boxes! 
-<p align="left">
-<a href="https://future-walkover-e2d.notion.site/Weekly-Organisation-Template-Zuabo-081cebf30ed4479fbcb60b2110acbb0a" target="blank"><img align="center" 
-src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" title = "Notion"/>  
-</p>
 
 I also have been grinding out codewars because I'm too scared to start my first project. 
 <p align="left">
