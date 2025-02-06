@@ -6,7 +6,7 @@ src="" title = ""/>       -->
 <p align="left">
 <a href="zuziolek03@gmail.com" target="blank"><img align="center" 
 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title = "Gmail"/>
-<a href="https://www.linkedin.com/in/zuzanna-ziolek-147384255/" target="blank"><img align="center" 
+<a href="https://www.linkedin.com/in/zuzanna-ziolek-028597255/" target="blank"><img align="center" 
 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title = "LinkedIn"/>
 </p>
   
