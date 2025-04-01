@@ -1,5 +1,36 @@
-### Hi, I'm Zuzanna Ziolek AKA Zu (She/Her)
+<h1>Hi, I'm Zu :) (She/Her)</h1> 
 
+<h3>🚀 About Me</h3>
+
+I'm a third-year Computer Science student, set to graduate in July 2025. I'm currently working on my major project: a visualization tool for volleyball match statistics. My passion lies in full-stack web development, and I'm actively seeking an internship to gain real-world experience, test the waters, and refine my skills to become the best fit for my future company.
+
+<h3>💡 What Drives Me</h3>
+
+- Creativity & UX Design 🎨 - I love designing intuitive and aesthetically pleasing interfaces.
+
+- Optimization & Efficiency ⚡ - Finding the most optimal way to do things excites me.
+
+- Structured Productivity 📝 - I use Notion to organize my university work and personal life.
+
+<h3>💼 Work Experience</h3>
+
+I took a gap year after my second year to gain industry experience and worked as a Software Developer at Zaltek Digital. There, I led user testing for an NHS product, honing my organisation and interview skills.
+
+<h3>🏐 Beyond Coding</h3>
+
+Outside of tech, I'm passionate about volleyball! I play for my university's BUCS team, and I hope to join a club after graduation.
+
+<h3>📫 Let's Connect</h3>
+
+I'm open to opportunities in full-stack web development internships. If you're looking for a motivated, design-focused developer, feel free to reach out!
+
+📧 Email: zuziolek03@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/zu-ziolek/
+
+🌐 Discord: zu169
+
+Thanks for stopping by! 🚀
 <!-- Pretty links 
 <a href="" target="blank"><img align="center" 
 src="" title = ""/>       -->
@@ -9,44 +40,4 @@ src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&lo
 <a href="https://www.linkedin.com/in/zuzanna-ziolek-028597255/" target="blank"><img align="center" 
 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title = "LinkedIn"/>
 </p>
-  
-I've chosen to delay the completion of my Computer Science Degree at Aberystwyth University to gain work experience and upskill in relevant areas of the field.
-I'm currently taking the HarvardX CS50-AI course and I've been gaining deeper understanding of different search algorithms and the differences between them. 
-The quality of the lectures has been really engaging and motivating for me.
-I'm also learning React and Typescript atm so I can get started with the majority of the projects I want develop. 
-I'm planning to learn dart and flutter to make some apps in the future.
 
-Showing up for myself has always been a challenge for me but I've been actively improving on that by aiming to do something productive each day.
-My updated habit tracking notion template has been really helping me with that since I can hold myself accountable and see my daily progress on a neat graph.
-My template is available for you to use for free :))
-<p align="left">
-<a href="https://aboard-brazil-9c0.notion.site/Habit-Tracking-Template-53ae80db848f42c88ce8ba0208c4f9d3?pvs=4" target="blank"><img align="center" 
-src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" title = "Notion"/>  
-</p>
-
-I've recently been consuming more and more content to do with software development so I can find my niche.  
-I'm currently mostly interested in the programming language Golang because it has func in the syntax.  
-My favourite tech content creators are Primeagen, Fireship and CodeAesthetic.
-  
-I'm ***currently working*** on a mobile app. 
-<p align="left">
-<a href="https://github.com/zu169/LoveJarApp" target="blank"><img align="center" 
-src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title = "2ndYear"/>  
-</p>
-  
-<p align+"left">
-<a href="https://github.com/zu169/2ndYearUniWork" target="blank"><img align="center" 
-src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title = "2ndYear"/>  
-</p>
-
-<p align="left">
-<a href="https://github.com/zu169/zu169/blob/main/README.md#links" target="blank"><img align="center" 
-src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title = "Discord"/>
-<a href="https://future-walkover-e2d.notion.site/Weekly-Organisation-Template-Zuabo-081cebf30ed4479fbcb60b2110acbb0a" target="blank"><img align="center" 
-src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" title = "Notion"/> 
-<a href="https://myanimelist.net/profile/zuabo" target="blank"><img align="center" 
-src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" title = "Anime"/>
-</p>
-### Links -->
-  Gmail : zuziolek03@gmail.com
-  Discord : -Zu169#7989
